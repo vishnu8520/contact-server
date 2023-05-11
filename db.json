@@ -1,0 +1,112 @@
+{
+  "contacts": [
+    {
+      "id": "ca1",
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "photo": "https://tse2.mm.bing.net/th?id=OIP.8srvO2PtBJk8dCezMndAtAHaJx&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Romaguera-Crona",
+      "title": "Developer",
+      "groupId": "1"
+    },
+    {
+      "id": "ca2",
+      "name": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "photo": "https://tse2.mm.bing.net/th?id=OIP.hxknN5b25zel3hJCKa_xmQHaJi&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Deckow-Crist",
+      "title": "Network Admin",
+      "groupId": "2"
+    },
+    {
+      "id": "ca3",
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "photo": "https://tse4.mm.bing.net/th?id=OIP.bnMZqZBnjB_bx2yrH54X-QHaLI&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Romaguera-Jacobson",
+      "title": "Tester",
+      "groupId": "3"
+    },
+    {
+      "id": "ca4",
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "photo": "https://tse3.mm.bing.net/th?id=OIP.JAKbO1hgHRWAwjGNNVAgnAHaIr&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Robel-Corkery",
+      "title": "Developer",
+      "groupId": "4"
+    },
+    {
+      "id": "ca5",
+      "name": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "photo": "https://img.izismile.com/img/img12/20190404/640/internet_has_chosen_the_most_beautiful_hollywood_actresses_of_all_time_640_high_04.jpg",
+      "mobile": "9876543210",
+      "company": "Keebler LLC",
+      "title": "HR",
+      "groupId": "1"
+    },
+    {
+      "id": "ca6",
+      "name": "Mrs. Dennis Schulist",
+      "email": "Karley_Dach@jasper.info",
+      "photo": "https://i.pinimg.com/originals/e7/0e/18/e70e1876cdd4f5537df9a817248b9477.jpg",
+      "mobile": "9876543210",
+      "company": "Considine-Lockman",
+      "title": "Developer",
+      "groupId": "2"
+    },
+    {
+      "id": "ca7",
+      "name": "Kurtis Weissnat",
+      "email": "Telly.Hoeger@billy.biz",
+      "photo": "https://tse4.mm.bing.net/th?id=OIP.m3rkzh5zmIk5rDE9ib22wwHaJE&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Johns Group",
+      "title": "Data Analyst",
+      "groupId": "3"
+    },
+    {
+      "id": "ca8",
+      "name": "Nicholas Runolfsdottir V",
+      "email": "Sherwood@rosamond.me",
+      "photo": "https://qph.fs.quoracdn.net/main-qimg-db4e696e7c0905ee34f311d49135e607",
+      "mobile": "9876543210",
+      "company": "Abernathy Group",
+      "title": "Developer",
+      "groupId": "4"
+    },
+    {
+      "groupId": "1",
+      "id": "12",
+      "name": "aaaa",
+      "photo": "data:image/jpeg;base64,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",
+      "mobile": "1234567876",
+      "email": "vishnu@hotmail.com",
+      "company": "Romaguera-Crona",
+      "title": "ss"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Friends"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Collegues"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    }
+  ]
+}
